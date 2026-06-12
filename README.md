@@ -7,6 +7,5 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghvc/?username=Beqarev&label=SHAOLIN_VISITORS&color=FFC72C&style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/github/followers/Beqarev?style=for-the-badge&color=000000&labelColor=FFC72C&label=DISCIPLES" />
 </div>
